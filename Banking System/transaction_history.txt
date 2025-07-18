@@ -1,0 +1,5 @@
+Username  TransactionType  Amount  - Balance  Date  Time
+Jahhan	Deposited	1000	3000	14/04/2024	13:46:46
+Jahhan	Withdrawed	2000	1000	14/04/2024	13:46:51
+Jahhan	Deposited	250	1250	16/04/2024	20:29:57
+Jahhan	Withdrawed	750	500	16/04/2024	20:30:08
